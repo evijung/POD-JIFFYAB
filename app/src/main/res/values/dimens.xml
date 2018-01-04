@@ -5,15 +5,15 @@
 
 
     <dimen name="h2">22sp</dimen>
-    <dimen name="h3">16sp</dimen>
+    <dimen name="h3">18sp</dimen>
 
     <dimen name="text_block_size">150dp</dimen>
     <dimen name="mini_margin">5dp</dimen>
     <dimen name="margin">10dp</dimen>
 
     <dimen name="icon_size">52dp</dimen>
-    <dimen name="h_button">16sp</dimen>
-    <dimen name="h1">28dp</dimen>
+    <dimen name="h_button">24sp</dimen>
+    <dimen name="h1">28sp</dimen>
     <dimen name="block">300dp</dimen>
     <dimen name="padding">20dp</dimen>
     <dimen name="logo_width">300dp</dimen>

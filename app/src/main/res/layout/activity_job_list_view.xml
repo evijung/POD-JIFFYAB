@@ -4,17 +4,17 @@
     android:id="@+id/activity_job_list_view"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/AppWallpaper"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.hitachi_tstv.yodpanom.yaowaluk.proofdelivery.JobListView"
-    android:background="@drawable/bg">
+    tools:context="com.hitachi_tstv.mist.it.pod_jiffy_ambient.JobListView">
 
     <ListView
+        android:id="@+id/livShowDate"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/livShowDate"
         android:background="@color/layout_bg2"
         android:elevation="@dimen/button_height" />
 </RelativeLayout>

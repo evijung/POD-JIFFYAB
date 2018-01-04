@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Proof Delivery</string>
+    <string name="app_name" translatable="false">Jiffy Ambient</string>
 
     <string name="sign_in">เข้าสู่ระบบ</string>
     <string name="logout">ลงชื่อออก</string>
@@ -52,4 +52,8 @@
     <string name="fin_load">บันทึกเวลาโหลดเสร็จเรียบร้อย</string>
     <string name="Qty">จำนวน</string>
     <string name="confirm">เรียบร้อย</string>
+    <string name="back">กลับ</string>
+    <string name="confirm_miles">กรุณาใส่เลขไมล์</string>
+    <string name="add_miles">ใส่เลขไมล์...</string>
+    <string name="err_internet">เครือข่ายขัดข้อง กรุณาลองใหม่อีกครั้ง</string>
 </resources>

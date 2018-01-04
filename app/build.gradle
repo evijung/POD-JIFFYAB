@@ -2,13 +2,13 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 24
-    buildToolsVersion '25.0.0'
+    buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId "com.hitachi_tstv.yodpanom.yaowaluk.proofdelivery"
+        applicationId 'com.hitachi_tstv.mist.it.pod_jiffy_ambient'
         minSdkVersion 15
         targetSdkVersion 24
-        versionCode 4
-        versionName '3.0'
+        versionCode 5
+        versionName '1.0.5'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

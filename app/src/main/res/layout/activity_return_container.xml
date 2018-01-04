@@ -4,9 +4,9 @@
     android:id="@+id/activity_return_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg"
+    android:background="@drawable/AppWallpaper"
     android:padding="@dimen/mini_margin"
-    tools:context="com.hitachi_tstv.yodpanom.yaowaluk.proofdelivery.ReturnContainerActivity">
+    tools:context="com.hitachi_tstv.mist.it.pod_jiffy_ambient.ReturnContainerActivity">
 
     <TextView
         android:id="@+id/txtStoreCode"
@@ -58,7 +58,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/confirm" />
+            android:text="@string/confirm"
+            android:textSize="@dimen/h_button"
+            android:background="@drawable/silver_button"
+            />
 
     </LinearLayout>
 

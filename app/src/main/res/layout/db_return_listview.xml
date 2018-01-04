@@ -10,7 +10,8 @@
         android:layout_margin="@dimen/mini_margin"
         android:layout_weight="1"
         android:padding="@dimen/mini_margin"
-        android:textAlignment="textStart" />
+        android:textAlignment="textStart"
+        android:textSize="@dimen/h3" />
 
     <TextView
         android:id="@+id/textView29"
@@ -19,5 +20,6 @@
         android:layout_margin="@dimen/mini_margin"
         android:layout_weight="1"
         android:padding="@dimen/mini_margin"
-        android:textAlignment="textStart" />
+        android:textAlignment="textStart"
+        android:textSize="@dimen/h3" />
 </LinearLayout>

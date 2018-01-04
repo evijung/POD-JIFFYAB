@@ -20,7 +20,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="right"
-            android:text="@string/Qty" />
+            android:text="@string/Qty"
+            android:textSize="@dimen/h3" />
 
         <EditText
             android:id="@+id/editText4"
@@ -28,13 +29,16 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="number" />
+            android:inputType="number"
+            android:textSize="@dimen/h3" />
     </LinearLayout>
 
     <Button
         android:id="@+id/button15"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/save" />
+        android:text="@string/save"
+        android:textSize="@dimen/h_button"
+        android:background="@drawable/silver_button"/>
 
 </LinearLayout>
